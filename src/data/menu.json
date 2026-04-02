@@ -1,0 +1,140 @@
+{
+  "categories": [
+    {
+      "id": "classiques",
+      "nom": "Déjeuners classiques",
+      "description": "Les incontournables, faits maison chaque matin.",
+      "items": [
+        {
+          "nom": "Déjeuner #1",
+          "description": "2 oeufs au choix, bacon ou jambon, rôties, fèves au lard",
+          "prix": "3.99"
+        },
+        {
+          "nom": "Déjeuner #2",
+          "description": "2 oeufs au choix, 2 tranches de bacon, saucisse, rôties, fèves au lard",
+          "prix": "5.99"
+        },
+        {
+          "nom": "Déjeuner #3",
+          "description": "3 oeufs au choix, bacon, jambon, saucisse, rôties, fèves au lard",
+          "prix": "7.99"
+        },
+        {
+          "nom": "Omelette maison",
+          "description": "3 oeufs, garniture au choix (fromage, légumes, jambon), rôties",
+          "prix": "8.49"
+        },
+        {
+          "nom": "Pain doré",
+          "description": "3 tranches épaisses, sirop d'érable, fruits frais de saison",
+          "prix": "7.49"
+        },
+        {
+          "nom": "Gruau maison",
+          "description": "Gruau crémeux, cassonade, cannelle, fruits",
+          "prix": "4.49"
+        }
+      ]
+    },
+    {
+      "id": "crepes",
+      "nom": "Crêpes signature",
+      "description": "Nos crêpes maison — fines, dorées, irrésistibles.",
+      "items": [
+        {
+          "nom": "Crêpe Dubaï",
+          "description": "Notre signature. Crêpe garnie de pistaches, chocolat blanc, kadaïf croustillant et sirop de rose",
+          "prix": "12.99",
+          "vedette": true
+        },
+        {
+          "nom": "Crêpe Biscoff",
+          "description": "Crêpe généreuse, tartinade Biscoff, banane, chantilly maison",
+          "prix": "11.49",
+          "vedette": true
+        },
+        {
+          "nom": "Crêpe aux fraises",
+          "description": "Fraises fraîches, crème fouettée, coulis maison",
+          "prix": "9.99"
+        },
+        {
+          "nom": "Crêpe aux bleuets",
+          "description": "Bleuets du Québec, sirop d'érable, crème fouettée",
+          "prix": "9.99"
+        },
+        {
+          "nom": "Crêpe classique",
+          "description": "Beurre et sirop d'érable — simple et parfaite",
+          "prix": "7.99"
+        },
+        {
+          "nom": "Crêpe Nutella-banane",
+          "description": "Nutella généreux, banane tranchée, noisettes concassées",
+          "prix": "10.49"
+        }
+      ]
+    },
+    {
+      "id": "assiettes",
+      "nom": "Assiettes complètes",
+      "description": "Pour les belles faims du matin.",
+      "items": [
+        {
+          "nom": "Le Grand Chaudron",
+          "description": "3 oeufs, 3 tranches de bacon, 2 saucisses, jambon, rôties, fèves, patates rissolées",
+          "prix": "13.99",
+          "vedette": true
+        },
+        {
+          "nom": "Assiette campagnarde",
+          "description": "2 oeufs, saucisse de campagne, patates rissolées, rôties, fèves au lard",
+          "prix": "10.99"
+        },
+        {
+          "nom": "Bénédictine maison",
+          "description": "Muffin anglais, jambon, oeufs pochés, sauce hollandaise maison",
+          "prix": "12.49"
+        }
+      ]
+    },
+    {
+      "id": "accompagnements",
+      "nom": "Accompagnements & boissons",
+      "description": "Pour compléter votre repas.",
+      "items": [
+        {
+          "nom": "Café filtre",
+          "description": "Tasse ou carafe — refills inclus",
+          "prix": "2.49"
+        },
+        {
+          "nom": "Jus d'orange frais",
+          "description": "Pressé le matin",
+          "prix": "3.49"
+        },
+        {
+          "nom": "Lait",
+          "description": "Grand verre",
+          "prix": "2.49"
+        },
+        {
+          "nom": "Fruits frais",
+          "description": "Coupe de fruits de saison",
+          "prix": "3.99"
+        },
+        {
+          "nom": "Rôties supplémentaires",
+          "description": "2 tranches, beurre et confiture",
+          "prix": "1.99"
+        },
+        {
+          "nom": "Patates rissolées",
+          "description": "Portion généreuse, assaisonnées maison",
+          "prix": "3.49"
+        }
+      ]
+    }
+  ]
+}
