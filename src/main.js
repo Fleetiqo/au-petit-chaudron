@@ -9,7 +9,7 @@ import Histoire from './pages/Histoire.vue'
 import Contact from './pages/Contact.vue'
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     { path: '/', component: Accueil },
     { path: '/menu', component: Menu },
